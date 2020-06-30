@@ -2,4 +2,4 @@
 
 ### Repositorio de prueba
 
-> codigo-fuente.py: Scripts para generar dll
+`codigo-fuente.py` - Scripts para generar dll
